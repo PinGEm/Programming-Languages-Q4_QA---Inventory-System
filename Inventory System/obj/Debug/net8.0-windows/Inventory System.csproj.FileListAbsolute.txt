@@ -51,3 +51,10 @@ C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inven
 C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\RemoveItem.g.cs
 C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\AddItem.baml
 C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\RemoveItem.baml
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\AddItem.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\RemoveItem.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\ViewInventory.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\AddItem.baml
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\RemoveItem.baml
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\ViewInventory.baml
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.sourcelink.json

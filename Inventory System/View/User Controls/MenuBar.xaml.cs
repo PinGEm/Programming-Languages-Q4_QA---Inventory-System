@@ -14,7 +14,7 @@ namespace Inventory_System.View.User_Controls
 
         private void Exit_Application(object sender, RoutedEventArgs e)
         {
-            MessageBoxResult result = MessageBox.Show("Do you want to Exit the Application?", "Exit App", MessageBoxButton.YesNo);
+            MessageBoxResult result = MessageBox.Show("Do you want to Exit the Application?", "Exit App", MessageBoxButton.YesNo, MessageBoxImage.Stop);
 
             switch (result)
             {

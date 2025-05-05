@@ -1,28 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+﻿using System.Windows.Controls;
 
 namespace Inventory_System.View.User_Controls
 {
-    /// <summary>
-    /// Interaction logic for AddItem.xaml
-    /// </summary>
+
     public partial class AddItem : UserControl
     {
         public AddItem()
         {
             InitializeComponent();
+        }
+
+        private void SubmitItem(object sender, System.Windows.RoutedEventArgs e)
+        {
+            string input_text = itemName.Text;
+
+            if (!string.IsNullOrEmpty(input_text))
+            {
+                // do something
+                confirmationText.Text = input_text + " has been added to your inventory!";
+            }
+            else
+            {
+                confirmationText.Text = "Please input a value into the box.";
+                // input an error on the screen.
+            }
         }
     }
 }
