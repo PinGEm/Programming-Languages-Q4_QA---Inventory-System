@@ -1,0 +1,23 @@
+C:\Users\Macky\source\repos\Inventory System\Inventory System\bin\Debug\net8.0-windows\Inventory System.exe
+C:\Users\Macky\source\repos\Inventory System\Inventory System\bin\Debug\net8.0-windows\Inventory System.deps.json
+C:\Users\Macky\source\repos\Inventory System\Inventory System\bin\Debug\net8.0-windows\Inventory System.runtimeconfig.json
+C:\Users\Macky\source\repos\Inventory System\Inventory System\bin\Debug\net8.0-windows\Inventory System.dll
+C:\Users\Macky\source\repos\Inventory System\Inventory System\bin\Debug\net8.0-windows\Inventory System.pdb
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System_MarkupCompile.cache
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System_MarkupCompile.lref
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.g.resources
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.AssemblyInfoInputs.cache
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.AssemblyInfo.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.dll
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\refint\Inventory System.dll
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.pdb
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\Inventory System.genruntimeconfig.cache
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\ref\Inventory System.dll
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\MenuBar.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\View\User Controls\MenuBar.baml
