@@ -7,6 +7,10 @@ namespace Inventory_System
         public MainWindow()
         {
             InitializeComponent();
+
+            var MenuBar = this.menuBar;
+
+            menuBar.FindMainWindow(this);
         }
     }
 }

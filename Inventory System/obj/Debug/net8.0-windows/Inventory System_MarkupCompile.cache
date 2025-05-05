@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Macky\source\repos\Inventory System\Inventory System\obj\Debug\net8.0-windows\
+C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inventory System\obj\Debug\net8.0-windows\
 Inventory_System
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Macky\source\repos\Inventory System\Inventory System\App.xaml
-2-319441596
+C:\Users\terry\source\repos\Programming-Languages-Q4_QA---Inventory-System\Inventory System\App.xaml
+5645311481
 
-5335883960
+8-1768848528
 198-1431420039
-MainWindow.xaml;View\User Controls\MenuBar.xaml;
+MainWindow.xaml;View\User Controls\AddItem.xaml;View\User Controls\MenuBar.xaml;View\User Controls\RemoveItem.xaml;View\User Controls\ViewInventory.xaml;
 
 False
 

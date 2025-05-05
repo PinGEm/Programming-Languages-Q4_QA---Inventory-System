@@ -23,25 +23,26 @@
         
         <!-- Elements -->
         <Button Grid.Column="1" Width="150" Height="40" Content="View Inventory" FontSize="20"
-        VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0" Background="DarkGray" />
+        VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0" Background="DarkGray" Click="View_Inventory" />
         <Button Grid.Column="2" Width="150" Height="40" Content="Add Item" FontSize="20"
-        VerticalAlignment="Center" HorizontalAlignment="Center" Background="DarkGray" BorderThickness="0"/>
+        VerticalAlignment="Center" HorizontalAlignment="Center" Background="DarkGray" BorderThickness="0" Click="Add_Item"/>
         <Button Grid.Column="3" Width="150" Height="40" Content="Remove Item" FontSize="20"
-        VerticalAlignment="Center" HorizontalAlignment="Center" Background="DarkGray" BorderThickness="0"/>
+        VerticalAlignment="Center" HorizontalAlignment="Center" Background="DarkGray" BorderThickness="0" Click="Remove_Item"/>
         <Button Grid.Column="4" Width="150" Height="40" Content="Exit Application" FontSize="20"
         VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,5,0" Background="DarkGray" BorderThickness="0" Click="Exit_Application"/>
 
 
         <TextBlock Grid.Row="1" Grid.Column="1" Text="Showing:" FontSize="16" Margin="5,0,0,0" FontWeight="Bold" HorizontalAlignment="Right"/>
-        <TextBlock Grid.Row="1" Grid.Column="2" Text="View Inventory System" FontSize="16" Margin="5,0,0,0" FontWeight="Thin" HorizontalAlignment="Left"/>
+        <TextBlock Grid.Row="1" Grid.Column="2" x:Name="showText" Text="View Inventory System" FontSize="16" Margin="5,0,0,0" FontWeight="Thin" HorizontalAlignment="Left"/>
 
         <!-- Customization -->
         <Border Grid.Row="0" Grid.Column="0" Background="Gray"/>
         <Border Grid.Row="0" Grid.Column="1" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
-        <Border Grid.Row="0" Grid.Column="1" BorderThickness="2,0,2,0" BorderBrush="Black"/>
         <Border Grid.Row="0" Grid.Column="2" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
         <Border Grid.Row="0" Grid.Column="3" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
         <Border Grid.Row="0" Grid.Column="4" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
+        <Border Grid.Row="0" Grid.Column="1" Panel.ZIndex="-1" x:Name="BlackBorder" BorderThickness="2,0,2,0" BorderBrush="Black"/>
+
 
         <Border Grid.Row="1" Grid.Column="0" Panel.ZIndex="-1" Background="DimGray"/>
         <Border Grid.Row="1" Grid.Column="1" Panel.ZIndex="-1" Background="DimGray"/>
