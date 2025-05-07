@@ -36,14 +36,38 @@
 
 
             <!-- Grid Column 1 -->
-            <ListView x:Name="inventoryList" Grid.Column="1" Background="DarkGray" BorderThickness="0" Margin="0,20,0,30" Panel.ZIndex="1" 
-              Height="250" VerticalAlignment="Top" ItemsSource="{Binding Items}">
+            <ListView x:Name="inventoryList" Grid.Column="1" Background="#1a1a1a" BorderThickness="0" Margin="0,20,0,30" Panel.ZIndex="1" 
+              Height="250" VerticalAlignment="Top" ItemsSource="{Binding Items}" >
                 <ListView.View>
                     <GridView>
-                        <GridViewColumn Width="100" Header="Index" DisplayMemberBinding="{Binding Index}"/>
-                        <GridViewColumn Width="350" Header="Name of Item" DisplayMemberBinding="{Binding ItemName}"/>
+                        <GridViewColumn Width="100" Header="Index" DisplayMemberBinding="{Binding Index}">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="Background" Value="#4d4d4d"/>
+                                    <Setter Property="BorderBrush" Value="#4d4d4d"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                        </GridViewColumn>
+                        <GridViewColumn Width="350" Header="Name of Item" DisplayMemberBinding="{Binding ItemName}">
+                            <GridViewColumn.HeaderContainerStyle>
+                                <Style TargetType="GridViewColumnHeader">
+                                    <Setter Property="Background" Value="#4d4d4d"/>
+                                    <Setter Property="BorderBrush" Value="#4d4d4d"/>
+                                    <Setter Property="Foreground" Value="White"/>
+                                </Style>
+                            </GridViewColumn.HeaderContainerStyle>
+                        </GridViewColumn>
                     </GridView>
                 </ListView.View>
+
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Style.Setters>
+                            <Setter Property="Foreground" Value="White"/>
+                        </Style.Setters>
+                    </Style>
+                </ListView.ItemContainerStyle>
             </ListView>
         </Grid>
     </Grid>

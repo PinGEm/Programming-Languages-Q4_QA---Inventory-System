@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\",
+  "WorkspaceRootPath": "C:\\Users\\Macky\\source\\repos\\Inventory System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\additem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\additem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\viewinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\viewinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\menubar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\additem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\additem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\removeitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\removeitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\removeitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\removeitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\removeitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\terry\\source\\repos\\programming-languages-q4_qa---inventory-system\\inventory system\\view\\user controls\\viewinventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\viewinventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\viewinventory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\viewinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\viewinventory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\removeitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\removeitem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\menubar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\view\\user controls\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\view\\user controls\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|c:\\users\\macky\\source\\repos\\inventory system\\inventory system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A080199-BFBF-40E7-B9E7-6F30F876930E}|Inventory System\\Inventory System.csproj|solutionrelative:inventory system\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,39 +50,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AddItem.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\AddItem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\AddItem.xaml.cs",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\AddItem.xaml.cs",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\AddItem.xaml.cs",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\AddItem.xaml.cs",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\AddItem.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T14:47:33.154Z"
+              "WhenOpened": "2025-05-05T14:47:33.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "RemoveItem.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\RemoveItem.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T09:40:31.991Z"
+              "WhenOpened": "2025-05-07T09:40:31.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "RemoveItem.xaml",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\RemoveItem.xaml",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\RemoveItem.xaml",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\RemoveItem.xaml",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\RemoveItem.xaml",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\RemoveItem.xaml",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\RemoveItem.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-05T08:37:12.568Z",
@@ -90,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ViewInventory.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\ViewInventory.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "ViewInventory.xaml",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\ViewInventory.xaml",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\ViewInventory.xaml",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\ViewInventory.xaml",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\ViewInventory.xaml",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\ViewInventory.xaml",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\ViewInventory.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-05T08:32:40.391Z",
@@ -115,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MenuBar.xaml",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\MenuBar.xaml",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\MenuBar.xaml",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\MenuBar.xaml",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\MenuBar.xaml",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\MenuBar.xaml",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\MenuBar.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-04T14:38:35.464Z",
@@ -127,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuBar.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\MenuBar.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +142,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AddItem.xaml",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\AddItem.xaml",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\AddItem.xaml",
               "RelativeDocumentMoniker": "Inventory System\\View\\User Controls\\AddItem.xaml",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\View\\User Controls\\AddItem.xaml",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\View\\User Controls\\AddItem.xaml",
               "RelativeToolTip": "Inventory System\\View\\User Controls\\AddItem.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-05T08:38:07.58Z",
@@ -152,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Inventory System\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\MainWindow.xaml",
               "RelativeToolTip": "Inventory System\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-04T14:16:06.026Z",
@@ -164,16 +166,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Inventory System\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\terry\\source\\repos\\Programming-Languages-Q4_QA---Inventory-System\\Inventory System\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Macky\\source\\repos\\Inventory System\\Inventory System\\MainWindow.xaml.cs",
               "RelativeToolTip": "Inventory System\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T14:16:03.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T14:16:03.284Z"
             }
           ]
         }
