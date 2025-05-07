@@ -41,7 +41,8 @@
         <Border Grid.Row="0" Grid.Column="2" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
         <Border Grid.Row="0" Grid.Column="3" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
         <Border Grid.Row="0" Grid.Column="4" Background="Gray" Panel.ZIndex="-1" BorderThickness="0,0,0,1" BorderBrush="MediumPurple"/>
-        <Border Grid.Row="0" Grid.Column="1" Panel.ZIndex="-1" x:Name="BlackBorder" BorderThickness="2,0,2,0" BorderBrush="Black"/>
+        <Border Grid.Row="0" Grid.Column="1" Panel.ZIndex="-1" x:Name="PurpBorder" BorderThickness="0,3,0,3" BorderBrush="MediumPurple"/>
+        <Border Grid.Row="0" Grid.Column="1" Panel.ZIndex="-1" x:Name="BlackBorder" BorderThickness="3,0,3,0" BorderBrush="Black"/>
 
 
         <Border Grid.Row="1" Grid.Column="0" Panel.ZIndex="-1" Background="DimGray"/>

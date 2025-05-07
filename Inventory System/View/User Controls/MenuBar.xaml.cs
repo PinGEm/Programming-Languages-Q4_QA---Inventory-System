@@ -43,6 +43,7 @@ namespace Inventory_System.View.User_Controls
             Panel.SetZIndex(mainWindow.viewInventory, -1);
 
             // Change the border
+            this.PurpBorder.SetValue(Grid.ColumnProperty, 2);
             this.BlackBorder.SetValue(Grid.ColumnProperty, 2);
             showText.Text = "Add to Inventory System";
         }
@@ -59,6 +60,7 @@ namespace Inventory_System.View.User_Controls
             Panel.SetZIndex(mainWindow.viewInventory, 1);
 
             // Change the border
+            this.PurpBorder.SetValue(Grid.ColumnProperty, 1);
             this.BlackBorder.SetValue(Grid.ColumnProperty, 1);
             showText.Text = "View Inventory System";
         }
@@ -75,6 +77,7 @@ namespace Inventory_System.View.User_Controls
             Panel.SetZIndex(mainWindow.viewInventory, -1);
 
             // Change the border
+            this.PurpBorder.SetValue(Grid.ColumnProperty, 3);
             this.BlackBorder.SetValue(Grid.ColumnProperty, 3);
             showText.Text = "Remove in Inventory System";
         }
