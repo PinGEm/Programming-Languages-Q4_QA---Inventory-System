@@ -3,10 +3,48 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:src="clr-namespace:Inventory_System"
              xmlns:local="clr-namespace:Inventory_System.View.User_Controls"
              mc:Ignorable="d" 
              d:DesignHeight="380" d:DesignWidth="800">
     <Grid>
-        <TextBlock Text="Removing Item:" Foreground="White" FontSize="30" HorizontalAlignment="Center"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.20*"/>
+            <RowDefinition Height="0.80*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Current Inventory:" Foreground="White" FontSize="30" HorizontalAlignment="Center"/>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.25*"/>
+                <ColumnDefinition Width="0.55*"/>
+                <ColumnDefinition Width="0.20*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Grid Column 0 -->
+            <TextBlock Text="Enter Index/Name to Remove Item:" Foreground="White" Margin="0,0,0,60" HorizontalAlignment="Center" FontSize="24" 
+                       TextWrapping="Wrap" TextAlignment="Center"/>
+            <TextBox Width="180" Height="34" FontSize="24" x:Name="tb_input"></TextBox>
+            <Button Height="20" Content="Remove Item" Width="100" VerticalAlignment="Bottom" Margin="0,0,0,50" Click="TryRemove"/>
+            <Button Height="20" Content="Clear All" Width="100" VerticalAlignment="Bottom" Margin="0,0,0,20" Click="ClearAll"/>
+
+            <!-- Grid Column 2 -->
+            <TextBlock Text="" Grid.Column="2" Foreground="Red" FontSize="20" HorizontalAlignment="Center" TextWrapping="Wrap" 
+                       TextAlignment="Center" x:Name="ErrorPopup"/>
+            <TextBlock Text="" Grid.Column="2" Foreground="Green" FontSize="20" HorizontalAlignment="Center" TextWrapping="Wrap" 
+                       TextAlignment="Center" x:Name="ConfirmPopup"/>
+
+
+            <!-- Grid Column 1 -->
+            <ListView x:Name="inventoryList" Grid.Column="1" Background="DarkGray" BorderThickness="0" Margin="0,20,0,30" Panel.ZIndex="1" 
+              Height="250" VerticalAlignment="Top" ItemsSource="{Binding Items}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="100" Header="Index" DisplayMemberBinding="{Binding Index}"/>
+                        <GridViewColumn Width="350" Header="Name of Item" DisplayMemberBinding="{Binding ItemName}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
     </Grid>
 </UserControl>

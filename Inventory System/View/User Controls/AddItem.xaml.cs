@@ -5,8 +5,8 @@ namespace Inventory_System.View.User_Controls
 
     public partial class AddItem : UserControl
     {
-        MainWindow mainWindow;
-        string input_text;
+        MainWindow? mainWindow;
+        string? input_text;
         
         public void FindMainWindow(MainWindow main)
         {
@@ -22,23 +22,14 @@ namespace Inventory_System.View.User_Controls
         {
             string Input_text = itemName.Text;
 
-            if (!string.IsNullOrEmpty(Input_text))
+            if (!string.IsNullOrEmpty(Input_text) && mainWindow != null)
             {
-                int index = -1;
-
-                // do something
+                // confirm
                 confirmationText.Text = Input_text + " has been added to your inventory!";
                 input_text = Input_text;
-                mainWindow.items.Add(input_text);
 
-                //TEMPORARY
-                for (int i = -1; i < mainWindow.items.Count; i++)
-                {
-                    index = i;
-                }
-
-                mainWindow.viewInventory.index_IL.Items.Add(index);
-                mainWindow.viewInventory.name_IL.Items.Add(mainWindow.items[index]);
+                InventoryList newItem = new InventoryList { Index = mainWindow.Items.Count, ItemName = input_text };
+                mainWindow.Items.Add(newItem);
             }
             else
             {

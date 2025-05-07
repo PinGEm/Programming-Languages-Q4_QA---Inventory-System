@@ -3,9 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:src="clr-namespace:Inventory_System"
              xmlns:local="clr-namespace:Inventory_System.View.User_Controls"
              mc:Ignorable="d" 
              Height="380" d:DesignWidth="800">
+
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="0.25*"/>
@@ -16,18 +18,21 @@
         <Grid Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="0.25*"/>
-                <ColumnDefinition Width="0.20*"/>
-                <!-- Index Column : 1 -->
-                <ColumnDefinition Width="0.40*"/>
-                <!-- Name Column : 2 -->
+                <ColumnDefinition Width="0.60*"/>
                 <ColumnDefinition Width="0.25*"/>
             </Grid.ColumnDefinitions>
 
-            <TextBlock Grid.Column="1" Text="Index Value" Foreground="White" FontSize="18" HorizontalAlignment="Center" Panel.ZIndex="1"/>
-            <TextBlock Grid.Column="2" Text="Name of the Item" Foreground="White" FontSize="18" HorizontalAlignment="Center" Panel.ZIndex="1"/>
+            <ListView x:Name="inventoryList" Grid.Column="1" Background="DarkGray" BorderThickness="0" Margin="0,20,0,30" Panel.ZIndex="1" 
+                      Height="200" VerticalAlignment="Top" ItemsSource="{Binding Items}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="100" Header="Index" DisplayMemberBinding="{Binding Index}"/>
+                        <GridViewColumn Width="350" Header="Name of Item" DisplayMemberBinding="{Binding ItemName}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
 
-            <ListView x:Name="index_IL" Grid.Column="1" Background="DarkGray"/>
-            <ListView x:Name="name_IL" Grid.Column="2" Background="DarkGray"/>
+
         </Grid>
     </Grid>
 </UserControl>

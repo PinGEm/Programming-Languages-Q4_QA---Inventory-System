@@ -5,7 +5,7 @@ namespace Inventory_System.View.User_Controls
 {
     public partial class MenuBar : UserControl
     {
-        private MainWindow mainWindow;
+        private MainWindow? mainWindow;
 
         public MenuBar()
         {
@@ -33,6 +33,11 @@ namespace Inventory_System.View.User_Controls
 
         private void Add_Item(object sender, RoutedEventArgs e)
         {
+            if (mainWindow == null)
+            {
+                return;
+            }
+
             Panel.SetZIndex(mainWindow.addItem, 1);
             Panel.SetZIndex(mainWindow.removeItem, -1);
             Panel.SetZIndex(mainWindow.viewInventory, -1);
@@ -44,6 +49,11 @@ namespace Inventory_System.View.User_Controls
 
         private void View_Inventory(object sender, RoutedEventArgs e)
         {
+            if (mainWindow == null)
+            {
+                return;
+            }
+
             Panel.SetZIndex(mainWindow.addItem, -1);
             Panel.SetZIndex(mainWindow.removeItem, -1);
             Panel.SetZIndex(mainWindow.viewInventory, 1);
@@ -55,6 +65,11 @@ namespace Inventory_System.View.User_Controls
 
         private void Remove_Item(object sender, RoutedEventArgs e)
         {
+            if (mainWindow == null)
+            {
+                return;
+            }
+
             Panel.SetZIndex(mainWindow.addItem, -1);
             Panel.SetZIndex(mainWindow.removeItem, 1);
             Panel.SetZIndex(mainWindow.viewInventory, -1);

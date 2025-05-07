@@ -4,7 +4,7 @@ namespace Inventory_System.View.User_Controls
 {
     public partial class ViewInventory : UserControl
     {
-        MainWindow mainWindow;
+        MainWindow? mainWindow;
 
         public void FindMainWindow(MainWindow main)
         {
